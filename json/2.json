@@ -1,0 +1,19 @@
+{
+  "name": "nft_project #2",
+  "description": "this is test project",
+  "image": "ipfs://QmdY3BE4tDdC8cLGs2FN32wV5ySGFqRov7ehgfwKKAwZy4/2.png",
+  "dna": "b2e0135da7a2659a286b3330e987f195d6855f2a",
+  "edition": 2,
+  "date": 1647706573223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "5"
+    },
+    {
+      "trait_type": "Goo",
+      "value": "Vector 8"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
